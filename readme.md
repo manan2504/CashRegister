@@ -1,1 +1,1 @@
-<img src="cash-register">
+<img src="./cash-register">
